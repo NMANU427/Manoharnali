@@ -2,4 +2,9 @@ Wed Sep 24 14:26:46 IST 2025 :: working with branches
 Wed Sep 24 14:41:52 IST 2025 :: working with master, after creating dev2
 Wed Sep 24 14:52:22 IST 2025 :: working with merge
 Wed Sep 24 15:18:00 IST 2025 :: working with merge :: conflict demo - dev-3
+<<<<<<< HEAD
 Wed Sep 24 15:32:06 IST 2025 :: working with merge :: conflict demo
+=======
+Wed Sep 24 15:28:23 IST 2025 :: working with merge :: conflict demo - dev-3
+Wed Sep 24 15:32:54 IST 2025 :: working with merge :: conflict demo - dev-3
+>>>>>>> dev-3
