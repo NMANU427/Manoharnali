@@ -8,3 +8,5 @@ VS conflict from Remote
 VS conflict from local
 
 Added chnage for protected branch demo
+
+Added chnage for protected branch demo  -- post adding ruleset for protected branch.
