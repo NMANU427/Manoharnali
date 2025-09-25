@@ -1,4 +1,6 @@
 Wed Sep 24 16:15:06 IST 2025 :: for stash demo
 Wed Sep 24 16:45:28 IST 2025 :: Change 2 : third note
 
-Manohar Nali checking local for the confilicy
+Manohar Nali checking local for the confilicy.
+
+VS conflict from Remote
